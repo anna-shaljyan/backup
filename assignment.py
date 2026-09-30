@@ -8,4 +8,4 @@ print(len(drinks))
 # As it is the second element in the list, because indexing starts from 0.
 
 # 2. What are the Python types of drinks and chosen_drink?
-# Your answer: drinks is a list containing strings here, and coffee is string
+# Your answer: drinks is a list containing strings here, and chosen_drink is string ('coffee')
